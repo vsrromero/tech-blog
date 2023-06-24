@@ -5,7 +5,7 @@ This is a simple blog application built with PHP vanilla.
 ## Installation
 To install the application, run the following command:  
 
-`run npm install`
+run `npm install`
 
 ## Database
 The application includes a hard-coded database stored in the data folder. The database is represented as an array, and you can add more data by adding more elements to the array. This allows you to test the application's responsiveness.
