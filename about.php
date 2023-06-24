@@ -14,7 +14,7 @@
         <div class="team-member">
             <h2 class="member-name">John Doe</h2>
             <p class="member-description">
-                <img src="<?= $IMAGES ?>/john-doe.JPG" alt="Team member">
+                <img src="<?= $IMAGES ?>john-doe.jpg" alt="Team member">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
                 Nulla vitae elit libero, a pharetra augue. 
                 Nullam id dolor id nibh ultricies vehicula ut id elit. 
